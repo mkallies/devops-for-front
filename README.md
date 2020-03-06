@@ -39,7 +39,7 @@ The Spectacle core API is available in the [Spectacle Docs](https://github.com/F
 
 ## Tutorial
 
-If want you a step-by-step guide for getting started with Spectacle, a basic tutorial is available [here](https://github.com/FormidableLabs/spectacle/blob/master/docs/tutorial.md).
+If want you a step-by-step guide for getting started with Spectacle, a basic tutorial is available [here](https://github.com/FormidableLabs/spectacle/blob/master/docs/content/getting-started.md).
 
 ## Build & Deployment
 
